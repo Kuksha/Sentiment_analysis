@@ -1,0 +1,4 @@
+py -m pip install 'pandas>=1.2.3' 
+py -m pip install 'numpy>=1.18.5' 
+py -m pip install 'streamlit>=0.78.0' 
+py -m pip install 'emoji>=1.2.0' 
